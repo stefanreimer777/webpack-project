@@ -1,4 +1,5 @@
 # webpack-project
 
+JS Bundle Project
 
-https://stefanreimer777.github.io/webpack-project/.
+Online version , pls [ click....https://stefanreimer777.github.io/webpack-project/.]
